@@ -10,7 +10,7 @@ Input number: 45
 Output
 Number is not divisible by 5 and 11
 */
-class DIVISIBLE_1
+class DIVISIBLE_4
 {
     public static void main()
     {

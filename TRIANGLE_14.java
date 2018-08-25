@@ -14,7 +14,7 @@ Input third angle: 90
 Output
 The triangle is not valid
 */
-class TRIANGLE_10
+class TRIANGLE_14
 {
     public static void main()
     {

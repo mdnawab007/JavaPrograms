@@ -10,7 +10,7 @@ Input character: s
 Output
 's' is not vowel
 */
-class VOWELCONSONANT_4
+class VOWELCONSONANT_8
 {
     public static void main()
     {

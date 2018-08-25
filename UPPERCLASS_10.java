@@ -10,7 +10,7 @@ Input character: s
 Output
 's' is lowercase alphabet
 */
-class UPPERCLASS_6
+class UPPERCLASS_10
 {
     public static void main()
     {

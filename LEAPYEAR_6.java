@@ -12,7 +12,7 @@ Output
 */
 
 
-class LEAPYEAR_2
+class LEAPYEAR_6
 {
     public static void main()
     {

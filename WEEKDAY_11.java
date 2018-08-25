@@ -11,7 +11,7 @@ Output
 Friday
 */  
 
-class WEEKDAY_7
+class WEEKDAY_11
 {
     public static void main()
     {

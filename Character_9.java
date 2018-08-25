@@ -15,7 +15,7 @@ Output
 % is special character
 */
 
-class Character_5
+class Character_9
 {
     public static void main()
     {

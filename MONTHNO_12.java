@@ -10,7 +10,7 @@ Enter month number: 11
 Output
 It contains 30 days.
  */
-class MONTHNO_8
+class MONTHNO_12
 {
     public static void main()
     {

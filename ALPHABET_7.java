@@ -11,7 +11,7 @@ Output
 '&' is not alphabet
 */
 
-class ALPHABET_3
+class ALPHABET_7
 {
     public static void main()
     {
