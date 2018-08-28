@@ -1,3 +1,6 @@
+/*QUES-5:Write a JAVA program to check whether a number is even or odd.
+ * 
+ */
 class EVENODD_5
 {
     public static void main()

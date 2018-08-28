@@ -1,5 +1,5 @@
 /*
-3.Write a program to input a character from user and check whether the given character is alphabet or not using if else. 
+QUES-7:.Write a program to input a character from user and check whether the given character is alphabet or not using if else. 
 Example
 Input
 Input character: a

@@ -1,5 +1,5 @@
 /*
-2.Write a program to check leap year using if else. 
+QUES-6:.Write a program to check leap year using if else. 
 Example
 Input
 Input year: 2004

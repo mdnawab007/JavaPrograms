@@ -1,5 +1,5 @@
 /*
-6.Write a program to input character from user and check whether character is uppercase or lowercase alphabet using if else. 
+QUES-10:.Write a program to input character from user and check whether character is uppercase or lowercase alphabet using if else. 
 Example
 Input
 Input character: C

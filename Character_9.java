@@ -1,5 +1,5 @@
 /*
-5.Write a program to input a character from user and check whether given character is alphabet, digit or special character using if else.
+QUES-9:.Write a program to input a character from user and check whether given character is alphabet, digit or special character using if else.
 Example
 Input
 Input any character: 3

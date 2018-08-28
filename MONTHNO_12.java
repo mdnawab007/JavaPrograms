@@ -1,5 +1,5 @@
 /*
-8.Write a program to enter month number between(1-12) and print number of days in month using if else. 
+QUES-12:.Write a program to enter month number between(1-12) and print number of days in month using if else. 
 Example
 Input
 Enter month number: 1

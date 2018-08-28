@@ -1,3 +1,6 @@
+/* QUES-1:JAVA program to find maximum between two numbers
+ * 
+ */
 class MAXTWNTWONUMB_1
 {
     public static void main()

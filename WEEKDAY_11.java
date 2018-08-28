@@ -1,5 +1,6 @@
 /*
-7.Write a program to input week number(1-7) and print the corresponding day of week name using if else.
+ /* 
+ * QUES-11:.Write a program to input week number(1-7) and print the corresponding day of week name using if else.
 Example
 Input
 Input week number: 1

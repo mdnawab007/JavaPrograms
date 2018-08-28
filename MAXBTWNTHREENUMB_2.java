@@ -1,3 +1,6 @@
+/* QUES-2: JAVA program to find maximum between two numbers
+ * 
+ */
 class MAXBTWNTHREENUMB_2
 
 {

@@ -1,5 +1,5 @@
 /*
-4.Write a program to check whether an alphabet is vowel or consonant using if else. 
+QUES-8:.Write a program to check whether an alphabet is vowel or consonant using if else. 
 Example
 Input
 Input character: a

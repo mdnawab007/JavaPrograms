@@ -1,5 +1,5 @@
 /*
-10.Write a program to check whether a triangle is valid or not if angles are given using if else. 
+QUES-14:.Write a program to check whether a triangle is valid or not if angles are given using if else. 
 Example
 Input
 Input first angle: 60

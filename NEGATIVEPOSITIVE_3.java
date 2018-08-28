@@ -1,3 +1,6 @@
+/* QUES-3:Write a JAVA program to check whether a number is negative, positive or zero.
+ * 
+ */
 class NEGATIVEPOSITIVE_3
 {
     public static void main()
